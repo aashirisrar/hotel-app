@@ -1,3 +1,5 @@
+"use client";
+
 import Container from "@/components/Container";
 import Logo from "@/components/navbar/Logo";
 import Search from "@/components/navbar/Search";
